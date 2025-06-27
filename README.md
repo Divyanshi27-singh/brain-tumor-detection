@@ -6,7 +6,7 @@ This project is a deep learning model to detect the presence of brain tumors in 
 
 ## 📂 Dataset
 
-- *Source: [Kaggle Brain Tumor Dataset](https://www.kaggle.com/datasets) *(You can insert the exact link here)
+- *Source: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 - *Classes*: Brain Tumor, No Tumor
 
 ---
